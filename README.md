@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **FirstResponse FiveM**
 
-- 👨‍💻 All of my projects are available at [~check github repos~](~check github repos~)
+- 👨‍💻 All of my projects are available here on github!
 
 - 💬 Ask me about **Lua, C#, TypeScript, JavaScript, VueJS, CSS, SQL**
 
